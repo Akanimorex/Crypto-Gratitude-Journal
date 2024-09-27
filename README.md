@@ -1,4 +1,4 @@
-# NFT gated Management Smart contract
+# Crypto Gratitude Journal
 
 
 -Open sourced (feel free to fork and contribute !)
